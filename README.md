@@ -18,8 +18,8 @@ I'm following all 16 chapters of the official tutorial:
 ### 📚 Core Labs (Following Odoo Documentation)
 - [x] [Lab 1: Environment Setup](*I used Docker instead of manual installation for better:isolation and cleanup)
 - [x] [Lab 2: Module Creation]
-- [ ] [Lab 3: Models - Part 1]
-- [ ] [Lab 4: Models - Part 2 (Fields)]
+- [x] [Lab 3: Models]
+- [ ] [Lab 4: Models And Basic Fields]
 - [ ] [Lab 5: Basic Views]
 - [ ] [Lab 6: List Views]
 - [ ] [Lab 7: Form Views]
