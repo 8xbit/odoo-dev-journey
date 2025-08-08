@@ -32,4 +32,8 @@ I'm following all 16 chapters of the official tutorial:
 - [ ] [Lab 14: Automated Tests]
 - [ ] [Lab 15: API Integration]
 - [ ] [Lab 16: Web Controllers]
+### 📚 To do
+    - improve the docker-compose file
+    - add .gitignore for pycache
+    - i should add Labs about security and menus and different actions in odoo 
 
